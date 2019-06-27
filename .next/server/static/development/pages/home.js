@@ -88,7 +88,7 @@ module.exports =
 /******/
 /******/
 /******/ 	// Load entry module and return exports
-/******/ 	return __webpack_require__(__webpack_require__.s = 7);
+/******/ 	return __webpack_require__(__webpack_require__.s = 3);
 /******/ })
 /************************************************************************/
 /******/ ({
@@ -175,7 +175,7 @@ __webpack_require__.r(__webpack_exports__);
 
 
 
-var _jsxFileName = "/home/doesit-faris/Gen5/edikw/nextjs/component/home.js";
+var _jsxFileName = "/home/doesit-faris/Gen5/edikw/weatherApp/component/home.js";
 
 
 
@@ -1276,7 +1276,7 @@ __webpack_require__.r(__webpack_exports__);
 /* harmony import */ var react__WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(/*! react */ "react");
 /* harmony import */ var react__WEBPACK_IMPORTED_MODULE_0___default = /*#__PURE__*/__webpack_require__.n(react__WEBPACK_IMPORTED_MODULE_0__);
 /* harmony import */ var _component_home__WEBPACK_IMPORTED_MODULE_1__ = __webpack_require__(/*! ../component/home */ "./component/home.js");
-var _jsxFileName = "/home/doesit-faris/Gen5/edikw/nextjs/pages/home.js";
+var _jsxFileName = "/home/doesit-faris/Gen5/edikw/weatherApp/pages/home.js";
 
 
 
@@ -1316,7 +1316,7 @@ __webpack_require__.r(__webpack_exports__);
 /* harmony import */ var next_head__WEBPACK_IMPORTED_MODULE_2__ = __webpack_require__(/*! next/head */ "next/head");
 /* harmony import */ var next_head__WEBPACK_IMPORTED_MODULE_2___default = /*#__PURE__*/__webpack_require__.n(next_head__WEBPACK_IMPORTED_MODULE_2__);
 /* harmony import */ var _navbar__WEBPACK_IMPORTED_MODULE_3__ = __webpack_require__(/*! ./navbar */ "./pages/navbar.js");
-var _jsxFileName = "/home/doesit-faris/Gen5/edikw/nextjs/pages/layout.js";
+var _jsxFileName = "/home/doesit-faris/Gen5/edikw/weatherApp/pages/layout.js";
 
 
 
@@ -1394,7 +1394,7 @@ __webpack_require__.r(__webpack_exports__);
 /* harmony import */ var react__WEBPACK_IMPORTED_MODULE_0___default = /*#__PURE__*/__webpack_require__.n(react__WEBPACK_IMPORTED_MODULE_0__);
 /* harmony import */ var next_link__WEBPACK_IMPORTED_MODULE_1__ = __webpack_require__(/*! next/link */ "./node_modules/next/link.js");
 /* harmony import */ var next_link__WEBPACK_IMPORTED_MODULE_1___default = /*#__PURE__*/__webpack_require__.n(next_link__WEBPACK_IMPORTED_MODULE_1__);
-var _jsxFileName = "/home/doesit-faris/Gen5/edikw/nextjs/pages/navbar.js";
+var _jsxFileName = "/home/doesit-faris/Gen5/edikw/weatherApp/pages/navbar.js";
 
 
 var navbar = {
@@ -1545,14 +1545,14 @@ var weather = function weather() {
 
 /***/ }),
 
-/***/ 7:
+/***/ 3:
 /*!*****************************!*\
   !*** multi ./pages/home.js ***!
   \*****************************/
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
-module.exports = __webpack_require__(/*! /home/doesit-faris/Gen5/edikw/nextjs/pages/home.js */"./pages/home.js");
+module.exports = __webpack_require__(/*! /home/doesit-faris/Gen5/edikw/weatherApp/pages/home.js */"./pages/home.js");
 
 
 /***/ }),

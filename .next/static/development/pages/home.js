@@ -80,7 +80,7 @@ __webpack_require__.r(__webpack_exports__);
 
 
 
-var _jsxFileName = "/home/doesit-faris/Gen5/edikw/nextjs/component/home.js";
+var _jsxFileName = "/home/doesit-faris/Gen5/edikw/weatherApp/component/home.js";
 
 
 
@@ -8529,10 +8529,10 @@ exports.formatWithValidation = formatWithValidation;
 
 /***/ }),
 
-/***/ "./node_modules/next/dist/build/webpack/loaders/next-client-pages-loader.js?page=%2Fhome&absolutePagePath=%2Fhome%2Fdoesit-faris%2FGen5%2Fedikw%2Fnextjs%2Fpages%2Fhome.js!./":
-/*!*********************************************************************************************************************************************************************************!*\
-  !*** ./node_modules/next/dist/build/webpack/loaders/next-client-pages-loader.js?page=%2Fhome&absolutePagePath=%2Fhome%2Fdoesit-faris%2FGen5%2Fedikw%2Fnextjs%2Fpages%2Fhome.js ***!
-  \*********************************************************************************************************************************************************************************/
+/***/ "./node_modules/next/dist/build/webpack/loaders/next-client-pages-loader.js?page=%2Fhome&absolutePagePath=%2Fhome%2Fdoesit-faris%2FGen5%2Fedikw%2FweatherApp%2Fpages%2Fhome.js!./":
+/*!*************************************************************************************************************************************************************************************!*\
+  !*** ./node_modules/next/dist/build/webpack/loaders/next-client-pages-loader.js?page=%2Fhome&absolutePagePath=%2Fhome%2Fdoesit-faris%2FGen5%2Fedikw%2FweatherApp%2Fpages%2Fhome.js ***!
+  \*************************************************************************************************************************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
@@ -16158,7 +16158,7 @@ __webpack_require__.r(__webpack_exports__);
 /* harmony import */ var react__WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(/*! react */ "./node_modules/react/index.js");
 /* harmony import */ var react__WEBPACK_IMPORTED_MODULE_0___default = /*#__PURE__*/__webpack_require__.n(react__WEBPACK_IMPORTED_MODULE_0__);
 /* harmony import */ var _component_home__WEBPACK_IMPORTED_MODULE_1__ = __webpack_require__(/*! ../component/home */ "./component/home.js");
-var _jsxFileName = "/home/doesit-faris/Gen5/edikw/nextjs/pages/home.js";
+var _jsxFileName = "/home/doesit-faris/Gen5/edikw/weatherApp/pages/home.js";
 
 
 
@@ -16198,7 +16198,7 @@ __webpack_require__.r(__webpack_exports__);
 /* harmony import */ var next_head__WEBPACK_IMPORTED_MODULE_2__ = __webpack_require__(/*! next/head */ "./node_modules/next-server/dist/lib/head.js");
 /* harmony import */ var next_head__WEBPACK_IMPORTED_MODULE_2___default = /*#__PURE__*/__webpack_require__.n(next_head__WEBPACK_IMPORTED_MODULE_2__);
 /* harmony import */ var _navbar__WEBPACK_IMPORTED_MODULE_3__ = __webpack_require__(/*! ./navbar */ "./pages/navbar.js");
-var _jsxFileName = "/home/doesit-faris/Gen5/edikw/nextjs/pages/layout.js";
+var _jsxFileName = "/home/doesit-faris/Gen5/edikw/weatherApp/pages/layout.js";
 
 
 
@@ -16276,7 +16276,7 @@ __webpack_require__.r(__webpack_exports__);
 /* harmony import */ var react__WEBPACK_IMPORTED_MODULE_0___default = /*#__PURE__*/__webpack_require__.n(react__WEBPACK_IMPORTED_MODULE_0__);
 /* harmony import */ var next_link__WEBPACK_IMPORTED_MODULE_1__ = __webpack_require__(/*! next/link */ "./node_modules/next/link.js");
 /* harmony import */ var next_link__WEBPACK_IMPORTED_MODULE_1___default = /*#__PURE__*/__webpack_require__.n(next_link__WEBPACK_IMPORTED_MODULE_1__);
-var _jsxFileName = "/home/doesit-faris/Gen5/edikw/nextjs/pages/navbar.js";
+var _jsxFileName = "/home/doesit-faris/Gen5/edikw/weatherApp/pages/navbar.js";
 
 
 var navbar = {
@@ -16426,14 +16426,14 @@ var weather = function weather() {
 
 /***/ }),
 
-/***/ 4:
-/*!*************************************************************************************************************************************!*\
-  !*** multi next-client-pages-loader?page=%2Fhome&absolutePagePath=%2Fhome%2Fdoesit-faris%2FGen5%2Fedikw%2Fnextjs%2Fpages%2Fhome.js ***!
-  \*************************************************************************************************************************************/
+/***/ 0:
+/*!*****************************************************************************************************************************************!*\
+  !*** multi next-client-pages-loader?page=%2Fhome&absolutePagePath=%2Fhome%2Fdoesit-faris%2FGen5%2Fedikw%2FweatherApp%2Fpages%2Fhome.js ***!
+  \*****************************************************************************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
-module.exports = __webpack_require__(/*! next-client-pages-loader?page=%2Fhome&absolutePagePath=%2Fhome%2Fdoesit-faris%2FGen5%2Fedikw%2Fnextjs%2Fpages%2Fhome.js! */"./node_modules/next/dist/build/webpack/loaders/next-client-pages-loader.js?page=%2Fhome&absolutePagePath=%2Fhome%2Fdoesit-faris%2FGen5%2Fedikw%2Fnextjs%2Fpages%2Fhome.js!./");
+module.exports = __webpack_require__(/*! next-client-pages-loader?page=%2Fhome&absolutePagePath=%2Fhome%2Fdoesit-faris%2FGen5%2Fedikw%2FweatherApp%2Fpages%2Fhome.js! */"./node_modules/next/dist/build/webpack/loaders/next-client-pages-loader.js?page=%2Fhome&absolutePagePath=%2Fhome%2Fdoesit-faris%2FGen5%2Fedikw%2FweatherApp%2Fpages%2Fhome.js!./");
 
 
 /***/ }),
@@ -16449,5 +16449,5 @@ module.exports = dll_6dc2816e14fab51b8269;
 
 /***/ })
 
-},[[4,"static/runtime/webpack.js"]]]);
+},[[0,"static/runtime/webpack.js"]]]);
 //# sourceMappingURL=home.js.map
